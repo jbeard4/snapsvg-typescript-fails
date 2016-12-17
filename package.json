@@ -1,0 +1,17 @@
+{
+  "name": "test-snapsvg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/snapsvg": "^0.4.27"
+  },
+  "dependencies": {
+    "snapsvg": "^0.4.0"
+  }
+}
